@@ -7,7 +7,6 @@ var pkg                     = require('./package.json');
 var project                 = pkg.name;
 var slug                    = pkg.slug;
 var slugUppercase           = slug.toUpperCase();
-var projectURL              = 'http://demo.dev/york';
 var environment		    = require('./environment.json');
 
 // Translation related.
