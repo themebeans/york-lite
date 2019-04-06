@@ -1,0 +1,28 @@
+.search-form {
+	position: relative;
+}
+
+.search .page-content {
+	padding-top: 5px;
+}
+
+.search.search-no-results .site-content {
+	margin: 0 auto;
+	max-width: 40em;
+	text-align: center;
+}
+
+/* Search */
+.search .page-content input[type="search"].search-field {
+	width: 70%;
+	display: inline-block;
+}
+
+.search .page-content input[type="submit"] {
+	width: 20%;
+	display: inline-block;
+}
+
+.search .page-title {
+	text-align: center;
+}
